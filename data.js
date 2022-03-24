@@ -1,7 +1,7 @@
 var data = [
     [
         'mail.google.com',
-        'https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png',
         'Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide. A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols'
     ],
     [
