@@ -1,8 +1,8 @@
 var data = [
     [
-        'google.com',
-        'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg',
-        'Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.'
+        'mail.google.com',
+        'https://cdn.jsdelivr.net/gh/spamcage/emailnavi/images/gmail_logo.svg',
+        'Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide. A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols'
     ],
     [
         'youtube.com',
