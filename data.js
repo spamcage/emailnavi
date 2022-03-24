@@ -5,19 +5,19 @@ var data = [
         'Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide. A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols'
     ],
     [
-        'youtube.com',
-        'https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg',
-        'YouTube, LLC is an American video-sharing website headquartered in San Bruno, California. Google bought the site in November 2006 for US$1.65 billion.'
+        'mail.yahoo.com',
+        'https://upload.wikimedia.org/wikipedia/commons/a/a7/Yahoo%21_Mail_Logo_%281997-2009%29.svg',
+        'Yahoo! Mail is an email service launched on October 8, 1997, by the American company Yahoo, Inc. It offers four different email plans: three for personal use and another for businesses. As of January 2020, Yahoo! Mail has 225 million users.'
     ],
     [
-        'facebook.com',
-        'https://upload.wikimedia.org/wikipedia/commons/7/7c/Facebook_New_Logo_%282015%29.svg',
-        'Facebook, Inc. is an American online social media and social networking service company based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg.'
+        'Outlook.com',
+        'https://upload.wikimedia.org/wikipedia/commons/6/63/Outlook.com_logo_and_wordmark_%282012-2019%29.svg',
+        'Outlook.com is a personal information manager web app from Microsoft consisting of webmail, calendaring, contacts, and tasks services.'
     ],
     [
-        'baidu.com',
-        'https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Baidu.svg/228px-Baidu.svg.png',
-        'Baidu, Inc. 百度 is a Chinese multinational technology company specializing in Internet-related services and products, and artificial intelligence, headquartered in Beijing.'
+        'gmx.com',
+        'https://upload.wikimedia.org/wikipedia/commons/e/ea/GMX-Logo.svg',
+        'GMX Mail is a free advertising-supported email service provided by GMX. Users may access received GMX Mail via webmail, or using POP3 or IMAP4 protocols. Mail is sent using SMTP'
     ],
     [
         'en.wikipedia.org',
