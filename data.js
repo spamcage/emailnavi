@@ -20,19 +20,19 @@ var data = [
         'GMX Mail is a free advertising-supported email service provided by GMX. Users may access received GMX Mail via webmail, or using POP3 or IMAP4 protocols. Mail is sent using SMTP'
     ],
     [
-        'en.wikipedia.org',
-        'https://upload.wikimedia.org/wikipedia/commons/b/bb/Wikipedia_wordmark.svg',
-        'Wikipedia is a multilingual, web-based, free encyclopedia based on a model of openly editable content; a wiki. It is the largest and most popular general reference work on the World Wide Web.'
+        'mail.com',
+        'https://upload.wikimedia.org/wikipedia/commons/1/1c/Mail.com_logo.png',
+        'mail.com is a web portal and web-based email service provider owned by the internet company 1&1 Mail & Media Inc., headquartered in Chesterbrook, Pennsylvania, USA. 1&1 Mail & Media Inc. is a subsidiary of United Internet Group, a publicly listed internet services company based in Montabauer, Germany.'
     ],
     [
-        'yahoo.com',
-        'https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo%21_logo.svg',
-        'Yahoo! is a web services provider headquartered in Sunnyvale, California and owned by Verizon Communications. Yahoo was one of the pioneers of the early Internet era in the 1990s.'
+        'protonmail.com',
+        'https://upload.wikimedia.org/wikipedia/commons/0/0c/Protonmail_logo.svg',
+        'ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com.'
     ],
     [
-        'reddit.com',
-        'https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Reddit_logo_new.svg/500px-Reddit_logo_new.svg.png',
-        'Reddit is an American social news aggregation, web content rating, and discussion website. Registered members submit content to the site such as links, text posts, and images, which are then voted up or down by other members.'
+        'mail.aol.com',
+        'https://upload.wikimedia.org/wikipedia/commons/3/33/Aol_Mail_logo.png',
+        'AOL Mail is a free web-based email service provided by AOL, a division of Verizon Communications.'
     ],
     [
         'qq.com',
