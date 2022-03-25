@@ -50,14 +50,14 @@ var data = [
         'Yandex.Mail (Russian: Яндекс Почта; stylised as Yandex.Mail) is a Russian free email service developed by Yandex. It was launched on June 26, 2000,[1][2] and is one of the three largest email services in Runet (along with Gmail and Mail.ru).[3] The service uses automatic spam filtering, checks for viruses using antivirus software from Dr.Web, and an email translator'
     ],
     [
-        'twitter.com',
-        'https://upload.wikimedia.org/wikipedia/commons/archive/5/51/20120607232026%21Twitter_logo.svg',
-        'Twitter is an American online news and social networking service on which users post and interact with messages known as tweets. Originally restricted to 140 characters, this limit is now doubled.'
+        'mail.ru',
+        'https://upload.wikimedia.org/wikipedia/commons/b/bf/Mail.Ru_logo.svg',
+        'VK, which was known as Mail.ru Group until 12 October 2021, is a Russian internet company. It was started in 1998 as an e-mail service and went on to become a major corporate figure in the Russian-speaking segment of the Internet.'
     ],
     [
-        'tmall.com',
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tmall-logo_2.png/315px-Tmall-logo_2.png',
-        "Tmall.com 天猫; formerly Taobao Mall, is a Chinese-language website for B2C online retail, spun off from Taobao, operated in China by Alibaba Group, being the world's second biggest e-commerce website."
+        'www.zoho.com/mail',
+        'https://upload.wikimedia.org/wikipedia/commons/9/96/Zoho-logo.png',
+        "Zoho Mail is an excellent email service that is clean, fast, and offers better protection against fake emails."
     ],
     [
         'instagram.com',
