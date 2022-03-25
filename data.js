@@ -35,19 +35,19 @@ var data = [
         'AOL Mail is a free web-based email service provided by AOL, a division of Verizon Communications.'
     ],
     [
-        'qq.com',
+        'email.163.com',
+        'https://ir.netease.com/sites/g/files/knoqqb53596/themes/site/nir_pid158/client/images/NetEase-logo.png',
+        'NetEase is the largest provider of free e-mail services in China with more than 940 million users as of 2017. In addition to 163.com, the company also runs 188.'
+    ],
+    [
+        'mail.qq.com',
         'https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Tencent_QQ.svg/128px-Tencent_QQ.svg.png',
-        'Tencent QQ 腾讯QQ is an instant messaging software service. QQ also offers services that provide online social games, music, shopping, microblogging, movies, and group and voice chat software.'
+        "QQ mail is one of the most used emails in China. It was launched by the Tencent company in 2002 to provide users with safe, stable, fast and convenient email services . It has provided free and value-added email services to more than 100 million email users."
     ],
     [
-        'taobao.com',
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Taobao_Logo.svg/200px-Taobao_Logo.svg.png',
-        "Taobao 淘宝网 is a Chinese online shopping website, headquartered in Hangzhou, and owned by Alibaba. It is the world's biggest e-commerce website."
-    ],
-    [
-        'amazon.com',
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Amazon.com-Logo.svg/220px-Amazon.com-Logo.svg.png',
-        'Amazon is an American electronic commerce and cloud computing company based in Seattle, Washington, founded by Jeff Bezos. The tech giant is the largest Internet retailer in the world as measured by revenue and market capitalization'
+        'mail.yandex.com',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yandex_Mail_wordmark.svg/250px-Yandex_Mail_wordmark.svg.png',
+        'Yandex.Mail (Russian: Яндекс Почта; stylised as Yandex.Mail) is a Russian free email service developed by Yandex. It was launched on June 26, 2000,[1][2] and is one of the three largest email services in Runet (along with Gmail and Mail.ru).[3] The service uses automatic spam filtering, checks for viruses using antivirus software from Dr.Web, and an email translator'
     ],
     [
         'twitter.com',
