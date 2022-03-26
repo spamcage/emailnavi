@@ -1,7 +1,7 @@
 var data = [
     [
         'mail.google.com',
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png',
+        'https://cdn.statically.io/img/:emailnavi.com/:images/gmail_logo.png',
         'Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide. A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols'
     ],
     [
@@ -46,7 +46,7 @@ var data = [
     ],
     [
         'mail.yandex.com',
-        'https://upload.wikimedia.org/wikipedia/commons/c/cf/Yandex_2021.svg',
+        'https://upload.wikimedia.org/wikipedia/commons/d/dd/Yandex_Logo_2021.png',
         'Yandex.Mail (Russian: Яндекс Почта; stylised as Yandex.Mail) is a Russian free email service developed by Yandex. It was launched on June 26, 2000,[1][2] and is one of the three largest email services in Runet (along with Gmail and Mail.ru).[3] The service uses automatic spam filtering, checks for viruses using antivirus software from Dr.Web, and an email translator'
     ],
     [
