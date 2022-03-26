@@ -46,7 +46,7 @@ var data = [
     ],
     [
         'mail.yandex.com',
-        'https://cdn.jsdelivr.net/gh/spamcage/emailnavi/images/Yandex_2021.svg',
+        'https://upload.wikimedia.org/wikipedia/commons/c/cf/Yandex_2021.svg',
         'Yandex.Mail (Russian: Яндекс Почта; stylised as Yandex.Mail) is a Russian free email service developed by Yandex. It was launched on June 26, 2000,[1][2] and is one of the three largest email services in Runet (along with Gmail and Mail.ru).[3] The service uses automatic spam filtering, checks for viruses using antivirus software from Dr.Web, and an email translator'
     ],
     [
