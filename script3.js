@@ -1,22 +1,29 @@
-var techId = document.getElementById('tech');
-var tech = [
-    'techcrunch.com',
-    'TechCrunch',
-    'Discord',
-    'www.cs.oberlin.edu/~kuperman/help/vim/',
-    'Vim'
+var toolId = document.getElementById('tool');
+var tool = [
+    'www.cyren.com/ip-reputation-check.html',
+    'ip reputation check',
+    'check.spamhaus.org',
+    'spamhaus.org/lookup/',
+    'https://mxtoolbox.com/diagnostic.aspx',
+	'SMTP DIAGNOSTICS',
+	'https://www.blacklistalert.org',
+	'blacklistalert',
+	'www.dnsgoodies.com',
+	'Dnstools',
+	'www.mail-tester.com',
+	'mail-tester'
 ];
-for (var i = 0; i < tech.length; i = i + 2) {
-    techId.innerHTML +=
+for (var i = 0; i < tool.length; i = i + 2) {
+    toolId.innerHTML +=
         '<a target="_blank" href="https://' +
-        tech[i] +
+        tool[i] +
         '">' +
-        tech[i + 1] +
+        tool[i + 1] +
         '</a> &sdot; ';
 }
 
-var usefulId = document.getElementById('useful');
-var useful = [
+var webmailId = document.getElementById('webmail');
+var webmail = [
     'https://ask.com',
     'Ask',
     'https://answers.com',
@@ -25,12 +32,12 @@ var useful = [
     'http://www.gematrinator.com/calculator/index.php',
     'Gematrinator'
 ];
-for (var i = 0; i < useful.length; i = i + 2) {
-    usefulId.innerHTML +=
+for (var i = 0; i < webmail.length; i = i + 2) {
+    webmailId.innerHTML +=
         '<a target="_blank" href="' +
-        useful[i] +
+        webmail[i] +
         '">' +
-        useful[i + 1] +
+        webmail[i + 1] +
         '</a> &sdot; ';
 }
 
